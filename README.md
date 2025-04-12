@@ -2,7 +2,7 @@
 
 This interactive dashboard visualizes the division of Indian parliamentary constituencies among different political parties and alliances (NDA, INDIA, Others) during the elections.
 
-![Dashboard Screenshot](Screenshot 2025-04-07 213136.png)
+![Dashboard Screenshot](assets/ss1.png)
 
 ## 📌 Features
 
@@ -30,9 +30,9 @@ This project helped me explore:
 
 _Screenshot of the dashboard interface:_
 
-![Dashboard Preview](Screenshot 2025-04-07 213136.png)
-![Dashboard Preview](Screenshot 2025-04-07 213446.png)
-![Dashboard Preview](Screenshot 2025-04-07 213820.pngg)
+![Dashboard Preview](assets/ss1.png)
+![Dashboard Preview](assets/ss2.png)
+![Dashboard Preview](assets/ss3.png)
 
 ---
 
